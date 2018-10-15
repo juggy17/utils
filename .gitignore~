@@ -1,7 +1,0 @@
-*.czi
-*.tif
-*.png
-*.jpg
-*.bmp
-*.tfrecord
-*.pyc
