@@ -4,4 +4,3 @@
 *.jpg
 *.bmp
 *.tfrecord
-*.pyc
