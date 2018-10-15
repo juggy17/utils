@@ -6,3 +6,4 @@
 *.tfrecord
 *.pyc
 *.~
+.DS_Store
